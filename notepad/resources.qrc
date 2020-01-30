@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/Hopstarter-Soft-Scraps-File-New.ico</file>
+        <file>icons/Oxygen-Icons.org-Oxygen-Actions-help-about.ico</file>
+        <file>icons/Custom-Icon-Design-Flatastic-1-Cut.svg</file>
+        <file>icons/Custom-Icon-Design-Flatastic-10-Open-file.ico</file>
+        <file>icons/Hopstarter-Soft-Scraps-Folder-Open.ico</file>
+        <file>icons/Avosoft-Warm-Toolbar-Folder-open.ico</file>
+        <file>icons/Custom-Icon-Design-Flatastic-4-Open.ico</file>
+        <file>icons/Saki-NuoveXT-Actions-save-all.ico</file>
+        <file>icons/book.png</file>
+    </qresource>
+</RCC>
